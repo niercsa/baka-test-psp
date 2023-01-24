@@ -61,4 +61,4 @@ D:.
 # Resources
 | Tool | Notes |
 | ---- | ----- |
-| [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) | Extract / Reinsert CPK files |
+| [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) | Unpack / Repack CPK files |
