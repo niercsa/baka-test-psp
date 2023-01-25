@@ -1,5 +1,6 @@
 # Baka to Test to Shoukanjuu Portable
-An attempt to decompile and recompile aseets NPJH-50680 (バカとテストと召喚獣 Portable)
+An attempt to decompile and recompile aseets NPJH-50680 (バカとテストと召喚獣 Portable).  
+Join us on [Discord](https://discord.gg/CcZ2M62Gsy)
 
 ## File Structure
 ```
@@ -60,4 +61,4 @@ D:.
 # Resources
 | Tool | Notes |
 | ---- | ----- |
-| [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) | Extract / Reinsert CPK files |
+| [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) | Unpack / Repack CPK files |
