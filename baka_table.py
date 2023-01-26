@@ -9,6 +9,7 @@ def print_table():
 def print_tbl():
     for i in range(33088,40957):
         try:
+            # Need to skip 33276
             print((hex(i-33088)[2:].zfill(4)).upper()[2:] + (hex(i-33088)[2:].zfill(4)).upper()[:2] + "=" + bytes.fromhex(hex(i)[-4:]).decode('shift-jis'))
         except UnicodeDecodeError:
             continue
