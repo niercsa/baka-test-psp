@@ -1,3 +1,6 @@
+# https://gbatemp.net/threads/baka-test-portable-english-translation-project.370054/post-5071311
+# https://gbatemp.net/threads/baka-test-portable-english-translation-project.370054/post-5071857
+
 def print_table():
     print("decimal, sjis-hex, sjis, baka, baka-hex")
     for i in range(33088,40957):
