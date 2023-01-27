@@ -63,4 +63,4 @@ D:.
 | ---- | ----- |
 | [Kuriimu2](https://github.com/FanTranslatorsInternational/Kuriimu2) | Unpack / Repack CPK files |
 
-![](screenshots/kuriimu2.png)
+![](docs/screenshots/kuriimu2.png)
