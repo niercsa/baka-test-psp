@@ -3,10 +3,10 @@ An attempt to decompile and recompile aseets NPJH-50680 (バカとテストと�
 Join us on [Discord](https://discord.gg/CcZ2M62Gsy)
 
 ## Repo Structure
-0_orginal = The base game files 
-1_extracted = The extracted workable file from orginal folder
-2_translated = The modified file, googlesheet curl destination directory
-3_patched = reinserted files ready to be put inside the iso
+`0_orginal` = The base game files  
+`1_extracted` = The extracted workable file from orginal folder  
+`2_translated` = The modified file, googlesheet curl destination directory  
+`3_patched` = reinserted files ready to be put inside the iso  
 
 ## File Structure
 ```
