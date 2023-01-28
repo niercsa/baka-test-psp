@@ -4,6 +4,9 @@
 
 # Blog
 
+## 2023-01-26
+Found out the game structure is very similar to another game, "Nichijou: Uchuujin", and has tools and python code available to extract script, texctures, and even reinsert.  We'll be utilizing the tools here: https://github.com/UchuujinTranslate/UchuujinPatcher/tree/master/UchuujinPatcher
+
 ## 2023-01-25
 More progress on TBL file, more human readable text found, working on text dumper.
 
