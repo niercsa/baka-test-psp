@@ -4,6 +4,9 @@
 
 # Blog
 
+## 2023-02-28
+gil-unx creates program to encode/decode script files.
+
 ## 2023-01-26
 Found out the game structure is very similar to another game, "Nichijou: Uchuujin", and has tools and python code available to extract script, texctures, and even reinsert.  We'll be utilizing the tools here: https://github.com/UchuujinTranslate/UchuujinPatcher/tree/master/UchuujinPatcher
 
@@ -17,7 +20,6 @@ GitHub Project created! Started on TBL file and checking differences between exi
 pnvnd joins and starts researching file structure etc
 
 ## 2022-01-22
-classasalmon recruits on various Discord servers
 Bunkai joins and posts links to ROM Hacking guides
 
 ## 2022-12-13
