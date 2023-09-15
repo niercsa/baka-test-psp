@@ -1,0 +1,505 @@
+{
+    "ptr_offset": 1330928,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            },
+            {
+                "offset": 1024,
+                "size": 1024
+            },
+            {
+                "offset": 2048,
+                "size": 1024
+            },
+            {
+                "offset": 3072,
+                "size": 1024
+            },
+            {
+                "offset": 4096,
+                "size": 1024
+            },
+            {
+                "offset": 5120,
+                "size": 1024
+            },
+            {
+                "offset": 6144,
+                "size": 1024
+            },
+            {
+                "offset": 7168,
+                "size": 1024
+            },
+            {
+                "offset": 8192,
+                "size": 1024
+            },
+            {
+                "offset": 9216,
+                "size": 1024
+            },
+            {
+                "offset": 10240,
+                "size": 1024
+            },
+            {
+                "offset": 11264,
+                "size": 1024
+            },
+            {
+                "offset": 12288,
+                "size": 1024
+            },
+            {
+                "offset": 13312,
+                "size": 1024
+            },
+            {
+                "offset": 14336,
+                "size": 1024
+            },
+            {
+                "offset": 15360,
+                "size": 1024
+            }
+        ],
+        "pixel": [
+            {
+                "format": "-pspindex8",
+                "offset": 16384,
+                "size": 40960,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    7920,
+                    18576,
+                    29344,
+                    40896
+                ],
+                "gzip_csizes": [
+                    7888,
+                    10656,
+                    10768,
+                    11552
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 57344,
+                "size": 34816,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    9504,
+                    15264,
+                    22048,
+                    34320
+                ],
+                "gzip_csizes": [
+                    9472,
+                    5760,
+                    6784,
+                    12272
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 92160,
+                "size": 67584,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    13648,
+                    29552,
+                    48576,
+                    66144
+                ],
+                "gzip_csizes": [
+                    13616,
+                    15904,
+                    19024,
+                    17568
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 159744,
+                "size": 79872,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    17408,
+                    37376,
+                    58320,
+                    79200
+                ],
+                "gzip_csizes": [
+                    17376,
+                    19968,
+                    20944,
+                    20880
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 239616,
+                "size": 53248,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    16256,
+                    30512,
+                    44864,
+                    52960
+                ],
+                "gzip_csizes": [
+                    16224,
+                    14256,
+                    14352,
+                    8096
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 292864,
+                "size": 26624,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    5904,
+                    15600,
+                    20672,
+                    24816
+                ],
+                "gzip_csizes": [
+                    5872,
+                    9696,
+                    5072,
+                    4144
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 319488,
+                "size": 63488,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    9520,
+                    24864,
+                    42912,
+                    62624
+                ],
+                "gzip_csizes": [
+                    9488,
+                    15344,
+                    18048,
+                    19712
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 382976,
+                "size": 83968,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    20848,
+                    43856,
+                    64896,
+                    83648
+                ],
+                "gzip_csizes": [
+                    20816,
+                    23008,
+                    21040,
+                    18752
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 466944,
+                "size": 55296,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    15744,
+                    31776,
+                    46848,
+                    54640
+                ],
+                "gzip_csizes": [
+                    15712,
+                    16032,
+                    15072,
+                    7792
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 522240,
+                "size": 57344,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    7216,
+                    21088,
+                    37152,
+                    56560
+                ],
+                "gzip_csizes": [
+                    7184,
+                    13872,
+                    16064,
+                    19408
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 579584,
+                "size": 65536,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    21360,
+                    43152,
+                    57392,
+                    65200
+                ],
+                "gzip_csizes": [
+                    21328,
+                    21792,
+                    14240,
+                    7808
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 645120,
+                "size": 45056,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    9600,
+                    27040,
+                    39040,
+                    43760
+                ],
+                "gzip_csizes": [
+                    9568,
+                    17440,
+                    12000,
+                    4720
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 690176,
+                "size": 34816,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    5504,
+                    10704,
+                    22048,
+                    33488
+                ],
+                "gzip_csizes": [
+                    5472,
+                    5200,
+                    11344,
+                    11440
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 724992,
+                "size": 51200,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    12544,
+                    24352,
+                    37920,
+                    50224
+                ],
+                "gzip_csizes": [
+                    12512,
+                    11808,
+                    13568,
+                    12304
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 776192,
+                "size": 53248,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    16784,
+                    32288,
+                    46080,
+                    52304
+                ],
+                "gzip_csizes": [
+                    16752,
+                    15504,
+                    13792,
+                    6224
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 829440,
+                "size": 4096,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    1072,
+                    1376,
+                    1664,
+                    1968
+                ],
+                "gzip_csizes": [
+                    1040,
+                    304,
+                    288,
+                    304
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            }
+        ]
+    }
+}

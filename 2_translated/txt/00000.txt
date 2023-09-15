@@ -1,682 +1,689 @@
 [0000]
-姫路瑞希
+Mizuki Himeji
 **********
-そ、それでは説明を始めます！
-皆さん、席についてください！
+Well, then, let's begin the explanation!
+Everyone, please take your seats!
 
 --------------------
 [0001]
-島田美波
+Minami Shimada
 **********
-アキ！　早く座って！
+Aki!　Hurry up and sit down!
 
 --------------------
 [0002]
-吉井明久
+Akihisa Yoshii
 **********
-ははーっ！！
+Haha!
 
 --------------------
 [0003]
-吉井明久
+Akihisa Yoshii
 **********
-……って、僕は何をひざまずいているんだ！？
+...... is what I'm kneeling for!
 
 --------------------
 [0004]
-土屋康太
+Kota Tsuchiya
 **********
-……受け入れろ……それが男の宿命。
+...... Accept it. ......
+That's a man's destiny.
 
 --------------------
 [0005]
-坂本雄二
+Yuji Sakamoto
 **********
-スーツ姿の女は魔性の生き物だな。
+Women in suits are magical creatures.
 
 --------------------
 [0006]
-土屋康太
+Kota Tsuchiya
 **********
-……プラス眼鏡も。
-アレこそ、魔性の本質。
+...... plus glasses too.
+That thing is the essence of witchcraft.
 
 --------------------
 [0007]
-姫路瑞希
+Mizuki Himeji
 **********
-皆さん、どうしたんです？
-どうしてそんな目で見るんですか？
+What's wrong, everyone?
+Why are you looking at me like that?
 
 --------------------
 [0008]
-男子学生
+Male student
 **********
-姫路さん、もっと高飛車な表情してください！
-むしろ罵ってくださいっ！
+Himeji-san, please look more
+high and mighty!
+Rather cuss me out!
 
 --------------------
 [0009]
-吉井明久
+Akihisa Yoshii
 **********
-姫路さんに熱烈ラブコールを
-送ってるのは誰だ！？
+Who is sending Himeji-san an ardent love call?
+Who is the one sending the love call to Mr. Himeji!
 
 --------------------
 [0010]
-吉井明久
+Akihisa Yoshii
 **********
-結婚してくれはともかく、
-罵ってくださいは許せないぞ！！
+Marry me, though,
+I won't allow you to cuss me out!
 
 --------------------
 [0011]
-土屋康太
+Kota Tsuchiya
 **********
-……ご褒美は共有すべき。
+...... Rewards should be shared.
 
 --------------------
 [0012]
-吉井明久
+Akihisa Yoshii
 **********
-ちょっと待って。
-ムッツリーニ、僕のことを誤解してるよね？
+Wait a minute.
+Muttsurini, you misunderstand me,
+don't you?
 
 --------------------
 [0013]
-土屋康太
+Kota Tsuchiya
 **********
-……問題ない。
-明久はどちらかというとＭ。
+...... no problem.
+Akihisa is rather m.
 
 --------------------
 [0014]
-吉井明久
+Akihisa Yoshii
 **********
-違う！　僕はバカかもしれないけど
-Ｍじゃないよ！
+No, I'm not!　I may be an idiot, but
+I'm not M!
 
 --------------------
 [0015]
-坂本雄二
+Yuji Sakamoto
 **********
-島田に折乖されているときは、
-えらく気持ち良さげだったがな。
+When Shimada was folding me,
+I'm sure he was feeling pretty
+good when Shimada was folding him.
 
 --------------------
 [0016]
-吉井明久
+Akihisa Yoshii
 **********
-うん……意識が飛ぶのはクセになるんだよね。
-特にあのフワッとした瞬間が……って、
-そんなわけないよ！
+Yeah, ...... consciousness flying is
+addictive, isn't it? Especially that
+fluttery moment when you ......,No way!
 
 --------------------
 [0017]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-明久は難儀な性癖じゃのう。
+Akihisa is a difficult sexuality.
 
 --------------------
 [0018]
-吉井明久
+Akihisa Yoshii
 **********
-だから違うってば！
-むしろＭなのは雄二だよ！
-霧島さんに――
+That's not true!
+Rather, it's Yuji who is M!
+To Mr. Kirishima--
 
 --------------------
 [0019]
-島田美波
+Minami Shimada
 **********
-だから、アキ、座りなさい！
+So, Aki, sit down!
 
 --------------------
 [0020]
-（ト書き）
+(TODO)
 **********
-――話は、少し前に遡る。
+--The story goes back a while.
 
 --------------------
 [0021]
-藤堂カヲル
+Kaworu Todo
 **********
-時間がないから手短にいくよ。
-突然だが、今日新しい試召システムの
-テストをするからね。
+I don't have much time, so I'll be brief.
+I know it's sudden, but I'm going to test
+of the new test system today.
 
 --------------------
 [0022]
-藤堂カヲル
+Kaworu Todo
 **********
-新しいシステムだから
-これまでと異なる点がいろいろあるけども、
-アンタ達にとっても利益はあるだろうよ。
+It's a new system, so it's different from
+the old one in many ways, I'm sure it will
+be of benefit to you as well.
 
 --------------------
 [0023]
-藤堂カヲル
+Kaworu Todo
 **********
-じゃあ今からルールの詳細を説明するよ。
-一度しか言わないからよーく聞きな。
+Okay, I'm going to explain the details of the rules now.
+I'm only going to say it once, so listen carefully.
 
 --------------------
 [0024]
-明久＆雄二（吉井明久＆坂本雄二）
+Akihisa & Yuji (Akihisa Yoshii & Yuji Sakamoto)
 **********
-わかるかっ！
+I'll only say it once, so listen carefully!
 
 --------------------
 [0025]
-吉井明久
+Akihisa Yoshii
 **********
-今の何？　誰か分かった人いる？
+What was that?　Did anyone figure it out?
 
 --------------------
 [0026]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-残念じゃが、皆目見当がつかん。
+I'm sorry, but I have no idea who this is.
 
 --------------------
 [0027]
-坂本雄二
+Yuji Sakamoto
 **********
-分かったのは、
-新しい試召システムのテストを行なう、
-のところまでだな。
+All I know is
+The new test system will be tested,
+I think I'm up to the point of
 
 --------------------
 [0028]
-坂本雄二
+Yuji Sakamoto
 **********
-全部理解できそうなヤツといえば……
+Speaking of guys who seem
+to understand it all: ......
 
 --------------------
 [0029]
-姫路瑞希
+Mizuki Himeji
 **********
-あ、あの……多分……。
+Oh, that ...... maybe ......
 
 --------------------
 [0030]
-吉井明久
+Akihisa Yoshii
 **********
-さすが姫路さん！
+Himeji-san indeed!
 
 --------------------
 [0031]
-坂本雄二
+Yuji Sakamoto
 **********
-なら姫路、悪いが皆に説明してもらえるか？
+Well then, Himeji, I'm sorry,
+but can you explain this to everyone?
 
 --------------------
 [0032]
-姫路瑞希
+Mizuki Himeji
 **********
-分かりました。
-でしたら黒板を使ったほうがいいですね。
+I understand.
+I'd better use a blackboard if that's the case.
 
 --------------------
 [0033]
-島田美波
+Minami Shimada
 **********
-ウチも手伝うわ。
+I'll help too.
 
 --------------------
 [0034]
-姫路瑞希
+Mizuki Himeji
 **********
-ありがとうございます、美波ちゃん。
-それじゃあこちらのメモを
-一緒に黒板に書いてもらえますか？
+Thank you, Minami.
+Well then, I'll take this note here.
+Can you write it on the blackboard with me?
 
 --------------------
 [0035]
-島田美波
+Minami Shimada
 **********
-ええと、なになに？
-仮想通貨を用いながら……あっ、いけない！
-チョークで服を汚しちゃった……
+Uh, what what what?
+While using virtual currency ...... Oh, no!
+I stained my clothes with chalk. ......
 
 --------------------
 [0036]
-姫路瑞希
+Mizuki Himeji
 **********
-あうう、私もです……
+Aww, me too ......
 
 --------------------
 [0037]
-土屋康太
+Kota Tsuchiya
 **********
-……だったら……これを。
+If it's ......, then ...... this.
 
 --------------------
 [0038]
-島田美波
+Minami Shimada
 **********
-何これ？　スーツ？
+What is this?　Suit?
 
 --------------------
 [0039]
-土屋康太
+Kota Tsuchiya
 **********
-……教壇に立つなら、これが一番。
+...... If you're going to be teaching,
+this is the best way to go.
 
 --------------------
 [0040]
-姫路瑞希
+Mizuki Himeji
 **********
-でも、汚したら申し訳ないですし……
+But I'm sorry if I stain it. ......
 
 --------------------
 [0041]
-土屋康太
+Kota Tsuchiya
 **********
-……問題ない。
-汚れてもいい……むしろ汚すがいい。
+It's ...... no problem.
+You can get dirty ...... rather dirty.
 
 --------------------
 [0042]
-島田美波
+Minami Shimada
 **********
-瑞希、どうする？
+Mizuki, what do you want to do?
 
 --------------------
 [0043]
-姫路瑞希
+Mizuki Himeji
 **********
-……どうしましょう？
+...... What should we do?
 
 --------------------
 [0044]
-土屋康太
+Kota Tsuchiya
 **********
-……こ、これは……ッ！
+......This is ......!
 
 --------------------
 [0045]
-島田美波
+Minami Shimada
 **********
-結局着るのね。
-それも追加で眼鏡まで付けて。
+I guess she's going to wear it after all.
+And even add glasses to it.
 
 --------------------
 [0046]
-姫路瑞希
+Mizuki Himeji
 **********
-だって、土屋くんの好意を
-むげにはできませんし……
-美波ちゃんだって似合ってますよ？
+Because I can't let Tsuchiya-kun's goodwill go unnoticed.
+I can't let Tsuchiya-kun's favor go ungrudgingly. ......
+I'm sure Minami would look good in it too.
 
 --------------------
 [0047]
-島田美波
+Minami Shimada
 **********
-そ、そう？
-……アキはどう思う？
+Well, yeah?
+What do you think ...... Aki?
 
 --------------------
 [0048]
-吉井明久
+Akihisa Yoshii
 **********
-（確かに似合ってる。
-　スカートの丈が短いせいか、美波のスラッと
-　長い足が強調されて……）
+(It certainly looks good on her.
+　The short length of the skirt emphasizes Minami's long and slender legs.
+　long legs are emphasized because of the short length of the skirt. ......)
 
 --------------------
 [0049]
-吉井明久
+Akihisa Yoshii
 **********
-でも、その格好で姫路さんと並んでると、
-薄過ぎる胸が何て言うかとても残念――
+But when she's side by side with Himeji-san in that outfit,
+I'm very sorry to say that your chest is too thin--
 
 --------------------
 [0050]
-島田美波
+Minami Shimada
 **********
-残念で悪かったわね！
+Sorry to hear that!
 
 --------------------
 [0051]
-吉井明久
+Akihisa Yoshii
 **********
-みみみ美波っ！　無し！　関節技は無し！
-ギブ！　ギブギブギブギブギブッ！！
+MimiMimiMiami!　No!　No joint techniques!
+Gib!　Gibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgibgib!
 
 --------------------
 [0052]
-吉井明久
+Akihisa Yoshii
 **********
-うわああああああっ！
+Ohhhhhhhh!
 
 --------------------
 [0053]
-吉井明久
+Akihisa Yoshii
 **********
-……そして今に至る、と。
-説明を聞こうとしただけなのに、
-なんでこんなに酷い目に遭うんだろう……？
+...... and now, and so on.
+I was just trying to get an explanation,
+Why do I feel so bad ......?
 
 --------------------
 [0054]
-坂本雄二
+Yuji Sakamoto
 **********
-おまえが２人のスーツ姿に見とれるからだろ？
+Because you're the one who can't stop staring at the two of them in their suits, right?
 
 --------------------
 [0055]
-吉井明久
+Akihisa Yoshii
 **********
-そ、そんなことは……あるけど、
-でもそれだったら雄二だって！
+Well, there is such a thing ......,
+But then, so is Yuji!
 
 --------------------
-[0056]
-？？？（霧島亊子）
+[0056]?
+What? （Fitness)
 **********
-……それ本当？
+...... Is that true?
 
 --------------------
 [0057]
-坂本雄二
+Yuji Sakamoto
 **********
-グワアアッ！？　眼球が頭の奥にぃっ！？
+Gwaaah!　My eyeballs are in the back of my head!
 
 --------------------
 [0058]
-霧島亊子
+Kirishima Fitness
 **********
-……雄二、浮気はだめ。
-見とれるのは私だけでいい。
+...... Yuji, don't flirt.
+I'm the only one who can watch you.
 
 --------------------
 [0059]
-坂本雄二
+Yuji Sakamoto
 **********
-ぐううう……なんでここに亊子が？
-おまえはＡクラスだろ？
+Guuuuuhhhh ...... why the fitness boy here?
+You're a class A student, right?
 
 --------------------
 [0060]
-木下優子
+Yuko Kinoshita
 **********
-あなた達の声がうるさ過ぎるから
-注意しに来たのよ。
-ていうか姫路さんと島田さんの格好、何？
+I'm here to warn you that your voices are too loud.
+I came to warn you.
+I mean, what are Himeji-san and Shimada-san wearing?
 
 --------------------
 [0061]
-土屋康太
+Kota Tsuchiya
 **********
-……これが最適……魔性の魅力。
+...... this is the best ...... magical charm.
 
 --------------------
 [0062]
-霧島亊子
+Kirishima Fitness
 **********
-……分かった。
-なら、私もこれにする。
+I understand .......
+Then I'll take this one.
 
 --------------------
 [0063]
-土屋康太
+Kota Tsuchiya
 **********
-……っ！　……っ！
+......!　......!
 
 --------------------
 [0064]
-吉井明久
+Akihisa Yoshii
 **********
-おおっ！？　似合いすぎるっ！
-知的な雰囲気はまさに理想の女教師っ！
+Oh?　She looks too good!
+The intellectual atmosphere is just the ideal female teacher!
 
 --------------------
 [0065]
-霧島亊子
+Kirishima Fitness
 **********
-……雄二、見とれていい。
-もっと近づいて。
+...... Yuji, you can look at them.
+Get closer.
 
 --------------------
 [0066]
-坂本雄二
+Yuji Sakamoto
 **********
-近づくか！
-それより姫路、早く説明を始めてくれ！
+Get closer!
+Better yet, Himeji, hurry up and start explaining!
 
 --------------------
 [0067]
-姫路瑞希
+Mizuki Himeji
 **********
-は、はい！　分かりました。
-それでは皆さん、黒板を見てください。
+Ha, yes!　I understand.
+Then everyone, please look at the blackboard.
 
 --------------------
 [0068]
-姫路瑞希
+Mizuki Himeji
 **********
-これまでと異なる部分について、
-主な点はこちらに書いたとおりです。
+About the part that differs from the previous one,
+The main points are as described here.
 
 --------------------
 [0069]
-姫路瑞希
+Mizuki Himeji
 **********
-まず、各個人に仮想通貨が与えられ、
-それを用いて売買を行なうことで
-備品を集めていきます。
+First, each individual is given a virtual currency,
+and by using it to buy and sell
+and collect equipment by buying and selling with it.
 
 --------------------
 [0070]
-姫路瑞希
+Mizuki Himeji
 **********
-但し、備品は召喚獣を戦わせることで
-奪うこともできます。
+However, fixtures can also be taken away by making the summoner fight
+You can also take them away.
 
 --------------------
 [0071]
-島田美波
+Minami Shimada
 **********
-それから、いつもの試召戦争のような
-クラス対抗戦じゃなくて、今回は４人一組で
-行なう個人戦になる……と。
+Then, it's like the usual test war.
+The competition will not be a class competition, but an individual competition
+This time, it will be an individual competition among four people in pairs. ......
 
 --------------------
 [0072]
-霧島亊子
+Kirishima Fitness
 **********
-……さらに、３回連続でトップを取れば
-賞品がもらえる。
+...... In addition, if you get the top three times in a row
+You will get a prize.
 
 --------------------
 [0073]
-姫路瑞希
+Mizuki Himeji
 **********
-先ほどの説明を聞く限りでは、
-賞品についてはかなりのわがままを
-聞いて頂けるようですね。
+As far as the explanation given earlier,
+It seems that you can be quite selfish about the prizes.
+I'm sure you will be able to get the prizes.
 
 --------------------
 [0074]
-吉井明久
+Akihisa Yoshii
 **********
-ホントッ！？
-それって何でも好きなものが
-貰えるってこと！？
+Really?
+That means I can have whatever I want!
+I can get whatever I want!
 
 --------------------
 [0075]
-姫路瑞希
+Mizuki Himeji
 **********
-はい、学園長が仰っていた
-「私たちの利益」というのは
-そういう意味だと思います。
+Yes, the headmaster mentioned it.
+I think that's what he meant by "our interests."
+I think that's what he meant.
 
 --------------------
 [0076]
-島田美波
+Minami Shimada
 **********
-でも、貰えるのは３回連続で
-トップになったら……でしょ？
-そんなのできっこないわよ。
+But it's three times in a row that you get it.
+If you make it to the top, you'll get ......, right?
+That's not possible.
 
 --------------------
 [0077]
-清水美春
+Shimizu Miharu
 **********
-でも、やります！
-美春はお姉さまのために頑張ります！
+But I will do it!
+Miharu will do her best for her sister!
 
 --------------------
 [0078]
-島田美波
+Minami Shimada
 **********
-な、なんで美春がいるのよ！？
-Ｄクラスでしょ！？
+Hey, why is Miharu here!
+It's class D, right!
 
 --------------------
 [0079]
-清水美春
+Shimizu Bishun
 **********
-お姉さまのためなら、
-美春はどこへでも行きます！
-だって美春はお姉さまを愛してますから！！
+For the sake of her sister,
+Miharu will go anywhere!
+Because Miharu loves her sister!
 
 --------------------
 [0080]
-島田美波
+Minami Shimada
 **********
-ウチにその趣味はないわよ！
-いい加減に諦めて！
+We don't have that kind of taste!
+Give it up for good!
 
 --------------------
 [0081]
-清水美春
+Miharu Shimizu
 **********
-嘘です！
-お姉さまは美春のことを愛してるはずです！
-昨日だって夢の中で何度も激しく……！
+It's a lie!
+Your sister must love Miharu!
+Even yesterday, she was violently ...... many times in her dreams!
 
 --------------------
 [0082]
-島田美波
+Shimada Minami
 **********
-してない！　ウチは普通に男子が好きなの！
+I don't!　We usually like boys!
 
 --------------------
 [0083]
-吉井明久
+Akihisa Yoshii
 **********
-美波と清水さんは相変わらず仲が良いなあ。
-……でも、賞品かぁ。
+Minami and Shimizu-san are getting along great as always.
+...... but prizes, huh?
 
 --------------------
 [0084]
-坂本雄二
+Yuji Sakamoto
 **********
-３回連続トップは確かに難しいだろうが、
-狙う価値はありそうだな。
+Three times in a row tops would certainly be difficult, though,
+I guess it's worth aiming for.
 
 --------------------
 [0085]
-吉井明久
+Akihisa Yoshii
 **********
-ムッツリーニはどうなの？　って……
+What about Muttsurini?　I mean ......
 
 --------------------
 [0086]
-土屋康太
+Kota Tsuchiya
 **********
-………………（ダバダバダバ）
+.................. (dabba dabba dabba)
 
 --------------------
 [0087]
-吉井明久
+Akihisa Yoshii
 **********
-……ああ。すでに妄想にふけっているとは。
-さすがムッツリーニ、
-間違いなく本気を出すつもりだ。
+...... Oh. I didn't realize you were already indulging in delusions.
+As expected of Muttsurini,
+Definitely going to get serious.
 
 --------------------
 [0088]
-姫路瑞希
+Mizuki Himeji
 **********
-わ、私も頑張ります。
-実は今、欲しい物があるんですけど、
-お小遣いでは全然足りなくて……
+Wow, I'll do my best.
+Actually, there's something I want right now,
+My allowance is not enough at all. ......
 
 --------------------
 [0089]
-島田美波
+Minami Shimada
 **********
-皆が頑張るならウチもやろうかな。
-ねえ、アキは賞品に何が欲しい？
+If everyone is going to do their best, we should do it too.
+Hey, what do you want for the prize, Aki?
 
 --------------------
 [0090]
-吉井明久
+Akihisa Yoshii
 **********
-うーん、まだわからないな。
-とにかく、皆に勝たないとね。
+Hmmm, I don't know yet.
+Anyway, I have to win everyone over.
 
 --------------------
 [0091]
-坂本雄二
+Yuji Sakamoto
 **********
-ほう……まさか明久、
-俺に勝てるつもりなのか？
+Hou ...... No way, Akihisa,
+You think you can beat me?
 
 --------------------
 [0092]
-吉井明久
+Akihisa Yoshii
 **********
-当然。負ける勝負はしないさ。
+Of course. I'm not going to play a game I can't lose.
 
 --------------------
 [0093]
-清水美春
+Shimizu Miharu
 **********
-違います！　勝つのは美春です！
-お姉さまのために……
-お姉さまに真実の愛を気づかせるために！
+No, it's not!　It is Miharu who wins!
+For your sister ......
+For your sister to realize true love!
 
 --------------------
 [0094]
-霧島亊子
+Kirishima Fitness
 **********
-……愛の深さなら負けない。
-私が一番……だから絶対に負けない。
+If it's the depth of ...... love, I won't lose.
+I am the best ...... and I will never lose.
 
 --------------------
 [0095]
-姫路瑞希
+Mizuki Himeji
 **********
-わ、私だって負けませんっ！
-頑張ります！
-大好きな人の役に立ちたいんです！
+Wow, I won't lose either!
+I will do my best!
+I want to help the people I love!
 
 --------------------
 [0096]
-木下秀吉
+Hideyoshi Kinoshita
 **********
-どうやらこの戦、相当に荒れそうじゃのう。
-何事もなければ良いのじゃが。
+It looks like this battle is going to be quite a rough one.
+I hope nothing goes wrong.
 
 --------------------
 [0097]
-吉井明久
+Akihisa Yoshii
 **********
-そうだね……誰かの胸のように
-平坦に終わればいいと言ってる間に
-足の関節を極められてえええええ……！
+Yes, like ...... someone's chest.
+While I'm saying I hope it ends up flat.
+I got my leg joints mastered eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee. ......
 
 --------------------
 [0098]
-（ト書き）
+(TWITTER)
 **********
-――こうして、
-僕達のいつもと違う試召戦争は
-その幕を開けたのだった。
+--And so it goes,
+Our unusual test war
+The curtain was opened.
 
 --------------------
