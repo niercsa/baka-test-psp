@@ -1,0 +1,40 @@
+{
+    "ptr_offset": null,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            }
+        ],
+        "pixel": [
+            {
+                "format": "-pspindex8",
+                "offset": 6144,
+                "size": 6144,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    24112,
+                    47168,
+                    67856,
+                    87456
+                ],
+                "gzip_csizes": [
+                    24080,
+                    23056,
+                    20688,
+                    19600
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            }
+        ]
+    }
+}

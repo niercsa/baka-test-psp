@@ -1,0 +1,5 @@
+
+0_iso/*.iso
+4_build/*.iso
+2_translated/sc/*.bin
+*.pyc

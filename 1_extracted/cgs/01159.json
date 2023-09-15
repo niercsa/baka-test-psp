@@ -1,0 +1,999 @@
+{
+    "ptr_offset": 1329240,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            },
+            {
+                "offset": 256,
+                "size": 1024
+            },
+            {
+                "offset": 512,
+                "size": 1024
+            },
+            {
+                "offset": 768,
+                "size": 1024
+            },
+            {
+                "offset": 1024,
+                "size": 1024
+            },
+            {
+                "offset": 1280,
+                "size": 1024
+            },
+            {
+                "offset": 1536,
+                "size": 1024
+            },
+            {
+                "offset": 1792,
+                "size": 1024
+            },
+            {
+                "offset": 2048,
+                "size": 1024
+            },
+            {
+                "offset": 2304,
+                "size": 1024
+            },
+            {
+                "offset": 2560,
+                "size": 1024
+            },
+            {
+                "offset": 2816,
+                "size": 1024
+            },
+            {
+                "offset": 3072,
+                "size": 1024
+            },
+            {
+                "offset": 3328,
+                "size": 1024
+            },
+            {
+                "offset": 3584,
+                "size": 1024
+            },
+            {
+                "offset": 3840,
+                "size": 1024
+            },
+            {
+                "offset": 4096,
+                "size": 1024
+            },
+            {
+                "offset": 4352,
+                "size": 1024
+            },
+            {
+                "offset": 4608,
+                "size": 1024
+            },
+            {
+                "offset": 4864,
+                "size": 1024
+            },
+            {
+                "offset": 5120,
+                "size": 1024
+            },
+            {
+                "offset": 5376,
+                "size": 1024
+            },
+            {
+                "offset": 5632,
+                "size": 1024
+            },
+            {
+                "offset": 5888,
+                "size": 1024
+            },
+            {
+                "offset": 6144,
+                "size": 1024
+            },
+            {
+                "offset": 6400,
+                "size": 1024
+            },
+            {
+                "offset": 6656,
+                "size": 1024
+            },
+            {
+                "offset": 6912,
+                "size": 1024
+            },
+            {
+                "offset": 7168,
+                "size": 1024
+            },
+            {
+                "offset": 7424,
+                "size": 1024
+            },
+            {
+                "offset": 7680,
+                "size": 1024
+            },
+            {
+                "offset": 7936,
+                "size": 1024
+            },
+            {
+                "offset": 8192,
+                "size": 1024
+            },
+            {
+                "offset": 8448,
+                "size": 1024
+            },
+            {
+                "offset": 8704,
+                "size": 1024
+            },
+            {
+                "offset": 8960,
+                "size": 1024
+            },
+            {
+                "offset": 9216,
+                "size": 1024
+            },
+            {
+                "offset": 9472,
+                "size": 1024
+            },
+            {
+                "offset": 9728,
+                "size": 1024
+            },
+            {
+                "offset": 9984,
+                "size": 1024
+            },
+            {
+                "offset": 10240,
+                "size": 1024
+            },
+            {
+                "offset": 10496,
+                "size": 1024
+            },
+            {
+                "offset": 10752,
+                "size": 1024
+            },
+            {
+                "offset": 11008,
+                "size": 1024
+            },
+            {
+                "offset": 11264,
+                "size": 1024
+            }
+        ],
+        "pixel": [
+            {
+                "format": "-pspindex4",
+                "offset": 11520,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1200
+                ],
+                "gzip_csizes": [
+                    1184
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 13568,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1056
+                ],
+                "gzip_csizes": [
+                    1040
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 15616,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1136
+                ],
+                "gzip_csizes": [
+                    1120
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 17664,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1184
+                ],
+                "gzip_csizes": [
+                    1168
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 19712,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1152
+                ],
+                "gzip_csizes": [
+                    1136
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 21760,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1136
+                ],
+                "gzip_csizes": [
+                    1120
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 23808,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1120
+                ],
+                "gzip_csizes": [
+                    1104
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 25856,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1168
+                ],
+                "gzip_csizes": [
+                    1152
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 27904,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1088
+                ],
+                "gzip_csizes": [
+                    1072
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 29952,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1168
+                ],
+                "gzip_csizes": [
+                    1152
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 32000,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1104
+                ],
+                "gzip_csizes": [
+                    1088
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 34048,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1056
+                ],
+                "gzip_csizes": [
+                    1040
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 36096,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1152
+                ],
+                "gzip_csizes": [
+                    1136
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 38144,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1104
+                ],
+                "gzip_csizes": [
+                    1088
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 40192,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1152
+                ],
+                "gzip_csizes": [
+                    1136
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 42240,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1200
+                ],
+                "gzip_csizes": [
+                    1184
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 44288,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1088
+                ],
+                "gzip_csizes": [
+                    1072
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 46336,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1168
+                ],
+                "gzip_csizes": [
+                    1152
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 48384,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1168
+                ],
+                "gzip_csizes": [
+                    1152
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 50432,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1152
+                ],
+                "gzip_csizes": [
+                    1136
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 52480,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1168
+                ],
+                "gzip_csizes": [
+                    1152
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 54528,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1056
+                ],
+                "gzip_csizes": [
+                    1040
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 56576,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1136
+                ],
+                "gzip_csizes": [
+                    1120
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 58624,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1136
+                ],
+                "gzip_csizes": [
+                    1120
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 60672,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1120
+                ],
+                "gzip_csizes": [
+                    1104
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 62720,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1168
+                ],
+                "gzip_csizes": [
+                    1152
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 64768,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1088
+                ],
+                "gzip_csizes": [
+                    1072
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 66816,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1072
+                ],
+                "gzip_csizes": [
+                    1056
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 68864,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1104
+                ],
+                "gzip_csizes": [
+                    1088
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 70912,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1120
+                ],
+                "gzip_csizes": [
+                    1104
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 72960,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1136
+                ],
+                "gzip_csizes": [
+                    1120
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 75008,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1072
+                ],
+                "gzip_csizes": [
+                    1056
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 77056,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1120
+                ],
+                "gzip_csizes": [
+                    1104
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 79104,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1152
+                ],
+                "gzip_csizes": [
+                    1136
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 81152,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1152
+                ],
+                "gzip_csizes": [
+                    1136
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 83200,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1328
+                ],
+                "gzip_csizes": [
+                    1312
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 85248,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1408
+                ],
+                "gzip_csizes": [
+                    1392
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 87296,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1408
+                ],
+                "gzip_csizes": [
+                    1392
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 89344,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1408
+                ],
+                "gzip_csizes": [
+                    1392
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 91392,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1376
+                ],
+                "gzip_csizes": [
+                    1360
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 93440,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1264
+                ],
+                "gzip_csizes": [
+                    1248
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 95488,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1280
+                ],
+                "gzip_csizes": [
+                    1264
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 97536,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1280
+                ],
+                "gzip_csizes": [
+                    1264
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 99584,
+                "size": 2048,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1280
+                ],
+                "gzip_csizes": [
+                    1264
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            },
+            {
+                "format": "-pspindex4",
+                "offset": 101632,
+                "size": 2816,
+                "width": 128,
+                "height": 32,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    1296
+                ],
+                "gzip_csizes": [
+                    1280
+                ],
+                "gzip_dsizes": [
+                    4096
+                ]
+            }
+        ]
+    }
+}

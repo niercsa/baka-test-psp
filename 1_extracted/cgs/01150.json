@@ -1,0 +1,161 @@
+{
+    "ptr_offset": 1328808,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            },
+            {
+                "offset": 1024,
+                "size": 1024
+            },
+            {
+                "offset": 2048,
+                "size": 1024
+            },
+            {
+                "offset": 3072,
+                "size": 1024
+            },
+            {
+                "offset": 4096,
+                "size": 1024
+            }
+        ],
+        "pixel": [
+            {
+                "format": "-pspindex8",
+                "offset": 5120,
+                "size": 18432,
+                "width": 256,
+                "height": 160,
+                "chunk": 1,
+                "chunk_offset": [
+                    16,
+                    17632
+                ],
+                "gzip_csizes": [
+                    17616
+                ],
+                "gzip_dsizes": [
+                    40960
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 23552,
+                "size": 16384,
+                "width": 256,
+                "height": 192,
+                "chunk": 2,
+                "chunk_offset": [
+                    16,
+                    8848,
+                    16080
+                ],
+                "gzip_csizes": [
+                    8832,
+                    7232
+                ],
+                "gzip_dsizes": [
+                    24576,
+                    24576
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 39936,
+                "size": 59392,
+                "width": 256,
+                "height": 480,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    18064,
+                    34960,
+                    49472,
+                    58656
+                ],
+                "gzip_csizes": [
+                    18032,
+                    16896,
+                    14512,
+                    9184
+                ],
+                "gzip_dsizes": [
+                    30720,
+                    30720,
+                    30720,
+                    30720
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 99328,
+                "size": 32768,
+                "width": 512,
+                "height": 272,
+                "chunk": 8,
+                "chunk_offset": [
+                    48,
+                    4928,
+                    7360,
+                    12352,
+                    16032,
+                    19808,
+                    26704,
+                    28368,
+                    31440
+                ],
+                "gzip_csizes": [
+                    4880,
+                    2432,
+                    4992,
+                    3680,
+                    3776,
+                    6896,
+                    1664,
+                    3072
+                ],
+                "gzip_dsizes": [
+                    32768,
+                    32768,
+                    32768,
+                    32768,
+                    32768,
+                    32768,
+                    32768,
+                    32768
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 132096,
+                "size": 46080,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    10288,
+                    20848,
+                    32704,
+                    44832
+                ],
+                "gzip_csizes": [
+                    10256,
+                    10560,
+                    11856,
+                    12128
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            }
+        ]
+    }
+}

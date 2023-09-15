@@ -1,0 +1,65 @@
+{
+    "ptr_offset": 1328792,
+    "content": {
+        "pallete": [
+            {
+                "offset": 0,
+                "size": 1024
+            },
+            {
+                "offset": 1024,
+                "size": 1024
+            }
+        ],
+        "pixel": [
+            {
+                "format": "-pspindex8",
+                "offset": 2048,
+                "size": 53248,
+                "width": 512,
+                "height": 272,
+                "chunk": 4,
+                "chunk_offset": [
+                    32,
+                    13056,
+                    25616,
+                    39248,
+                    52912
+                ],
+                "gzip_csizes": [
+                    13024,
+                    12560,
+                    13632,
+                    13664
+                ],
+                "gzip_dsizes": [
+                    34816,
+                    34816,
+                    34816,
+                    34816
+                ]
+            },
+            {
+                "format": "-pspindex8",
+                "offset": 55296,
+                "size": 26624,
+                "width": 256,
+                "height": 256,
+                "chunk": 2,
+                "chunk_offset": [
+                    16,
+                    12080,
+                    22656
+                ],
+                "gzip_csizes": [
+                    12064,
+                    10576
+                ],
+                "gzip_dsizes": [
+                    32768,
+                    32768
+                ]
+            }
+        ]
+    }
+}
